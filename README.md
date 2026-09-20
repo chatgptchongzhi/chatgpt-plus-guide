@@ -38,6 +38,6 @@ Codex主要用于编程和软件开发，可以帮助阅读代码、修改代码
 
 ## 十：ChatGPT充值入口在哪里？
 
-ChatGPT充值可以根据自己的付款条件选择官网、Apple App Store、Google Play或者第三方服务。普通用户可以重点了解 Plus，高频使用 ChatGPT 和 Codex 的用户则可以进一步比较5X、20X以及额外额度。如果需要查看 **ChatGPT充值、ChatGPT Plus充值、ChatGPT 5X/20X订阅以及Codex相关服务**，可以前往蜗壳海外小铺查看当前套餐、价格和充值说明：[wokee888.shop](https://wokee888.shop)。下单前建议核对套餐内容、价格及售后规则，再根据自己的实际需求选择。
+ChatGPT充值可以根据自己的付款条件选择官网、Apple App Store、Google Play或者第三方服务。普通用户可以重点了解 Plus，高频使用 ChatGPT 和 Codex 的用户则可以进一步比较5X、20X以及额外额度。如果需要查看 **ChatGPT充值、ChatGPT Plus充值、ChatGPT 5X/20X订阅以及Codex相关服务**，可以前往蜗壳海外小铺查看当前套餐、价格和充值说明：[`wokee888.shop`](https://wokee888.shop)。下单前建议核对套餐内容、价格及售后规则，再根据自己的实际需求选择。
 
 
