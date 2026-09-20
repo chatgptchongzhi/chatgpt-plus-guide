@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chatgptchongzhi.github.io/chatgpt-plus-guide/sitemap.xml
+
