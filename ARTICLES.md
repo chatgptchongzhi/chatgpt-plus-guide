@@ -7,7 +7,7 @@
 | 仓库 | 内容文件数 | 仓库目录 |
 |---|---:|---|
 | chatgpt-plus-guide | 2 | [README 目录](https://github.com/chatgptchongzhi/chatgpt-plus-guide#readme) |
-| dingyue | 10 | [README 目录](https://github.com/chatgptchongzhi/dingyue#readme) |
+| dingyue | 0 | [README 目录](https://github.com/chatgptchongzhi/dingyue#readme) |
 | https-github.com-cjreinhardt-Hugo-PaperMod-NetlifyCMS-Starter | 24 | [README 目录](https://github.com/chatgptchongzhi/https-github.com-cjreinhardt-Hugo-PaperMod-NetlifyCMS-Starter#readme) |
 | - | 0 | [README 目录](https://github.com/chatgptchongzhi/-#readme) |
 
@@ -22,20 +22,9 @@
 
 ## dingyue
 
-部分文章文件缺少 .md 扩展名；站点配置仍包含旧账号和 /-3- 路径。本次仅整理目录，未改动原文或发布配置。
+内容已清空，仓库保留；GitHub Pages 已停用。
 
-| 文章 / 页面标题 | 类型 | 阅读网页 | 源文件 | 状态 |
-|---|---|---|---|---|
-| API KEY代充值 | 服务页 | [打开网页](https://chatgptchongzhi.github.io/dingyue/apikey.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/apikey.html) | 可访问 |
-| GPT PLUS代升级 | 服务页 | [打开网页](https://chatgptchongzhi.github.io/dingyue/plus.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/plus.html) | 可访问 |
-| Agent 模式来了：ChatGPT 正在从助手变成执行者 | 文章 | [打开网页](https://chatgptchongzhi.github.io/dingyue/articles/gpt-agentmod.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/gpt-agentmod.md) | 可访问 |
-| ChatGPT 与 DeepSeek 的区别详解 | 文章 | — | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/gpt-deepseek-md) | 文件缺少 .md 扩展名，先查看源文件 |
-| ChatGPT Atlas 出现，对 Chrome 与 Edge 等浏览器意味着什么 | 文章 | — | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/gpt-atlas-liulanqi-md) | 文件缺少 .md 扩展名，先查看源文件 |
-| ChatGPT Business 和 Plus 怎么选？超详细开通指南！ | 文章 | — | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/gpt-business-plus-md) | 文件缺少 .md 扩展名，先查看源文件 |
-| ChatGPT iOS下载完全指南：八种可靠方法轻松安装【2025最新】 | 文章 | [打开网页](https://chatgptchongzhi.github.io/dingyue/articles/chat-gpt-download.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/chat-gpt-download.md) | 可访问 |
-| ChatGPT iOS下载完全指南：八种可靠方法轻松安装【2025最新】 | 文章 | [打开网页](https://chatgptchongzhi.github.io/dingyue/articles/gpt-subscription.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/gpt-subscription.md) | 可访问 |
-| chatgpt plus账号购买（稳定平台） | 文章 | [打开网页](https://chatgptchongzhi.github.io/dingyue/articles/articles/atlas-liulanqi.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/articles/atlas-liulanqi.md) | 可访问 |
-| OpenAI 全面解析：从 ChatGPT 到多模态智能时代 | 文章 | [打开网页](https://chatgptchongzhi.github.io/dingyue/articles/chatgpt-chongzhi.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/dingyue/blob/main/articles/chatgpt-chongzhi.md) | 可访问 |
+暂无文章。
 
 ## https-github.com-cjreinhardt-Hugo-PaperMod-NetlifyCMS-Starter
 
