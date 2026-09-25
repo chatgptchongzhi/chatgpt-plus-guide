@@ -2,7 +2,7 @@
 
 [全部仓库总目录](https://chatgptchongzhi.github.io/chatgpt-plus-guide/catalog.html) · [GitHub 版总目录](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/ARTICLES.md) · [网站首页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/)
 
-**文章 2 篇** · 整理日期：2026-09-25
+**文章 3 篇** · 整理日期：2026-09-25
 
 
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | ChatGPT CODEX 充值方式有哪些？2026年Plus、5X、20X充值指南 | 文章 | [打开网页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/) | [查看 / 编辑](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/index.html) | 已发布 |
 | ChatGPT Plus Codex 支付宝订阅教程：GPT-6 Astra、GPT-6 Sol、GPT-6 Luna 使用指南 | 文章 | [打开网页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/gpt6-plus-codex.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/gpt6-plus-codex.html) | 已发布 |
+| ChatGPT Plus会员如何使用Codex？2026最新Codex使用方法、登录方式与功能详解 | 文章 | [打开网页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-plus-codex-how-to-use.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-plus-codex-how-to-use.html) | 已发布 |
 
 > “打开网页”查看网站正文；“查看 / 编辑”进入 GitHub 源文件。发布状态不代表 Google 收录状态。新增、删除或改名文章后，请同步维护本目录。
 

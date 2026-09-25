@@ -22,15 +22,18 @@
           "status": "已发布",
           "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/gpt6-plus-codex.html",
           "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/gpt6-plus-codex.html"
+        },
+        {
+          "title": "ChatGPT Plus会员如何使用Codex？2026最新Codex使用方法、登录方式与功能详解",
+          "file": "chatgpt-plus-codex-how-to-use.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-plus-codex-how-to-use.html",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-plus-codex-how-to-use.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/chatgpt-plus-codex-how-to-use.html"
         }
       ],
       "note": ""
-    },
-    {
-      "name": "dingyue",
-      "home": null,
-      "items": [],
-      "note": "内容已清空，仓库保留；GitHub Pages 已停用。"
     },
     {
       "name": "https-github.com-cjreinhardt-Hugo-PaperMod-NetlifyCMS-Starter",
