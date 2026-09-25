@@ -1,3 +1,21 @@
+# chatgpt-plus-guide · 文章目录
+
+[全部仓库总目录](https://chatgptchongzhi.github.io/chatgpt-plus-guide/catalog.html) · [GitHub 版总目录](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/ARTICLES.md) · [网站首页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/)
+
+**文章 2 篇** · 整理日期：2026-09-25
+
+
+
+| 文章 / 页面标题 | 类型 | 阅读网页 | 源文件 | 状态 |
+|---|---|---|---|---|
+| ChatGPT CODEX 充值方式有哪些？2026年Plus、5X、20X充值指南 | 文章 | [打开网页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/) | [查看 / 编辑](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/index.html) | 已发布 |
+| ChatGPT Plus Codex 支付宝订阅教程：GPT-6 Astra、GPT-6 Sol、GPT-6 Luna 使用指南 | 文章 | [打开网页](https://chatgptchongzhi.github.io/chatgpt-plus-guide/gpt6-plus-codex.html) | [查看 / 编辑](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/gpt6-plus-codex.html) | 已发布 |
+
+> “打开网页”查看网站正文；“查看 / 编辑”进入 GitHub 源文件。发布状态不代表 Google 收录状态。新增、删除或改名文章后，请同步维护本目录。
+
+<details>
+<summary>原 README 内容（保留）</summary>
+
 # ChatGPT CODEX 充值方式有哪些？2026年Plus、5X、20X充值指南
 
 ## 一：为什么越来越多人需要ChatGPT充值？
@@ -41,3 +59,6 @@ Codex主要用于编程和软件开发，可以帮助阅读代码、修改代码
 ChatGPT充值可以根据自己的付款条件选择官网、Apple App Store、Google Play或者第三方服务。普通用户可以重点了解 Plus，高频使用 ChatGPT 和 Codex 的用户则可以进一步比较5X、20X以及额外额度。如果需要查看 **ChatGPT充值、ChatGPT Plus充值、ChatGPT 5X/20X订阅以及Codex相关服务**，可以前往蜗壳海外小铺查看当前套餐、价格和充值说明：[`wokee888.shop`](https://wokee888.shop)。下单前建议核对套餐内容、价格及售后规则，再根据自己的实际需求选择。
 
 
+
+
+</details>
