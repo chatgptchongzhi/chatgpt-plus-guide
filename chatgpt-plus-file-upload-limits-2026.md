@@ -411,3 +411,9 @@ PDF等普通文档单个最大512MB，同时存在约200万Token限制；Excel�
 [OpenAI：ChatGPT数据控制说明](https://help.openai.com/en/articles/7730893-data-controls-faq)
 
 [OpenAI：官方套餐价格与功能](https://chatgpt.com/pricing/)
+
+## 订阅与客服
+
+如果想订阅ChatGPT的朋友可以到 [wokee888.shop](https://wokee888.shop) 购买卡密，或添加下方客服一对一处理订阅问题。
+
+![蜗壳海外小铺客服二维码](wokee-customer-service.png)
