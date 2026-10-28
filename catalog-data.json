@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-10-28",
   "repos": [
     {
       "name": "chatgpt-plus-guide",
@@ -31,6 +31,15 @@
           "status": "已发布",
           "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-plus-codex-how-to-use.html",
           "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/chatgpt-plus-codex-how-to-use.html"
+        },
+        {
+          "title": "ChatGPT和Codex的区别：他们对做跨境电商的公司有哪些实质性帮助？",
+          "file": "chatgpt-vs-codex-cross-border-ecommerce/index.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-vs-codex-cross-border-ecommerce/",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-vs-codex-cross-border-ecommerce/index.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/chatgpt-vs-codex-cross-border-ecommerce/index.html"
         }
       ],
       "note": ""

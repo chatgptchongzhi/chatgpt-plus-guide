@@ -57,3 +57,7 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 
 暂无文章。
 
+
+## 2026年10月28日新增
+
+- [ChatGPT和Codex的区别：他们对做跨境电商的公司有哪些实质性帮助？](https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-vs-codex-cross-border-ecommerce/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-vs-codex-cross-border-ecommerce/index.html)
