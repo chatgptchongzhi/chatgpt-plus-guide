@@ -65,3 +65,8 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## 2026年10月29日新增
 
 - [GPT会员等级全解：Free、Go、Plus、Pro、Business](https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-membership-levels-2026/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-membership-levels-2026/index.html)
+
+
+## GPT会员购买指南（2026年10月29日）
+
+- [GPT会员是什么？怎么开通、多少钱？](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/gpt-membership-price-purchase-2026/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/gpt-membership-price-purchase-2026/index.html)
