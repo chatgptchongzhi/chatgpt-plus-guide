@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "repos": [
     {
       "name": "chatgpt-plus-guide",
@@ -40,6 +40,15 @@
           "status": "已发布",
           "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-vs-codex-cross-border-ecommerce/index.html",
           "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/chatgpt-vs-codex-cross-border-ecommerce/index.html"
+        },
+        {
+          "title": "GPT会员等级全解：Free、Go、Plus、Pro、Business",
+          "file": "chatgpt-membership-levels-2026/index.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-membership-levels-2026/",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-membership-levels-2026/index.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/chatgpt-membership-levels-2026/index.html"
         }
       ],
       "note": ""
