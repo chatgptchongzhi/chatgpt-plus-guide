@@ -69,3 +69,8 @@ ChatGPT充值可以根据自己的付款条件选择官网、Apple App Store、G
 ## GPT会员购买指南（2026年10月29日）
 
 - [GPT会员是什么？怎么开通、多少钱？](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/gpt-membership-price-purchase-2026/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/gpt-membership-price-purchase-2026/index.html)
+
+
+## ChatGPT注册教程（2026年10月29日）
+
+- [ChatGPT怎么注册？2026注册教程与验证码问题解决方法](https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-registration-guide-2026/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-registration-guide-2026/index.html)
