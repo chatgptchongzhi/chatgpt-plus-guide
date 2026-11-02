@@ -79,3 +79,7 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## 2026年11月2日新增
 
 - [ChatGPT应用内购买不可用怎么办？Plus无法升级Pro 5X的解决方法](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/chatgpt-in-app-purchase-unavailable-pro-5x/) — [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/chatgpt-in-app-purchase-unavailable-pro-5x/index.html)
+
+## Claude Code OAuth与账号风险（2026年11月2日）
+
+- [Claude Pro直接授权Claude Code会被封号吗？OAuth登录和第三方工具风险解析](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/claude-pro-claude-code-ban-risk/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/claude-pro-claude-code-ban-risk/index.html)

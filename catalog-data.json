@@ -76,6 +76,15 @@
           "status": "已发布",
           "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/chatgpt-in-app-purchase-unavailable-pro-5x/index.html",
           "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/chatgpt-in-app-purchase-unavailable-pro-5x/index.html"
+        },
+        {
+          "title": "Claude Pro直接授权Claude Code会被封号吗？OAuth登录和第三方工具风险解析",
+          "file": "guides/claude-pro-claude-code-ban-risk/index.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/claude-pro-claude-code-ban-risk/",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/claude-pro-claude-code-ban-risk/index.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/claude-pro-claude-code-ban-risk/index.html"
         }
       ],
       "note": ""
