@@ -75,3 +75,7 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## ChatGPT注册教程（2026年10月29日）
 
 - [ChatGPT怎么注册？2026注册教程与验证码问题解决方法](https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-registration-guide-2026/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-registration-guide-2026/index.html)
+
+## 2026年11月2日新增
+
+- [ChatGPT应用内购买不可用怎么办？Plus无法升级Pro 5X的解决方法](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/chatgpt-in-app-purchase-unavailable-pro-5x/) — [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/chatgpt-in-app-purchase-unavailable-pro-5x/index.html)
