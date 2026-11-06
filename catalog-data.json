@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-06",
   "repos": [
     {
       "name": "chatgpt-plus-guide",
@@ -94,6 +94,15 @@
           "status": "已发布",
           "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/what-is-muse-ai/index.html",
           "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/what-is-muse-ai/index.html"
+        },
+        {
+          "title": "苹果手机纸飞机怎么解除敏感限制？Telegram网页版设置教程",
+          "file": "guides/telegram-iphone-sensitive-content/index.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-iphone-sensitive-content/",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-iphone-sensitive-content/index.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/telegram-iphone-sensitive-content/index.html"
         }
       ],
       "note": ""

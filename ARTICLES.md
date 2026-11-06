@@ -85,3 +85,5 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 - [Claude Pro直接授权Claude Code会被封号吗？OAuth登录和第三方工具风险解析](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/claude-pro-claude-code-ban-risk/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/claude-pro-claude-code-ban-risk/index.html)
 
 - [Muse AI是什么？Meta AI智能代理能做什么、怎么使用？](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/what-is-muse-ai/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/what-is-muse-ai/index.html)
+
+- [苹果手机纸飞机怎么解除敏感限制？Telegram网页版设置教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-iphone-sensitive-content/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-iphone-sensitive-content/index.html)
