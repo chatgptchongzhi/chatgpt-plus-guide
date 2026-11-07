@@ -1,10 +1,10 @@
 {
   "packageName": "shop.wokee.shiliu",
-  "versionCode": 4,
-  "versionName": "1.5.2",
+  "versionCode": 5,
+  "versionName": "1.5.3",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.5.2.apk",
-  "sha256": "7fa9c95e6faaa386ad51cd5ff18041a35128052e5f5c29e8e093ddaf454f4cca",
-  "notes": "注册登录入口移至左上角头像菜单，可打开账号同步、检查更新和退出登录。",
+  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.5.3.apk",
+  "sha256": "076b869ac5912152ba5ed63380ffd6ff2572525709af49cb98cbe74dbba00623",
+  "notes": "日历视图顺序调整为日、周、月、年、日程。",
   "publishedAt": "2026-11-07"
 }
