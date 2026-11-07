@@ -1,0 +1,4 @@
+{
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.1.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.1.0.asar\",\"sha256\":\"37f168d8e591076d840282021828404c7539d168f85b89255f77dc725d11f426\",\"size\":95618,\"notes\":\"新增应用内检查更新、下载更新和重启安装。保留本机任务和备份功能。\"}",
+  "signature": "L4lLrV/b4qJp42y93Ugfv1kkFzGOkz96aUYXOSWAyFwqw/hapiEN2+CIrarkrBiG/BjMeFlj0lgQNyS8s4JaCg=="
+}
