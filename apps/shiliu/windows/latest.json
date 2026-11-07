@@ -1,4 +1,4 @@
 {
-  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.7.4\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.7.4.asar\",\"sha256\":\"38e874a31dc6eef3f4b46e9a84a923c6e0a81704a0dd4d7f7ac2e0156cebddf9\",\"size\":391462,\"notes\":\"修复 Windows 更新安装程序启动方式，增加安装日志，包含新版日历、四象限和习惯。\"}",
-  "signature": "6oxraJIQ+/+sQe06qKSTb+I+7EBy1FsVkEL70V3O3fo9CXiZzAqcTOqbxFUtcUdr/eEESUy5hBSidQny7gsuAg=="
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.7.5\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.7.5.asar\",\"sha256\":\"b872de63d414973878ea826e505fc5026c39589dff7c6b66ea7b337c0cf278fc\",\"size\":391462,\"notes\":\"修复 Windows 更新安装程序启动方式，增加安装日志，包含新版日历、四象限和习惯。\"}",
+  "signature": "kpZsqfrinv9SFVIp3Ykttm7LSmm+5Uran3st34kY/DoMcd3A+Yog2GxRZW7DT+chLj+55ZFLT9sF0nPWrJxJDw=="
 }
