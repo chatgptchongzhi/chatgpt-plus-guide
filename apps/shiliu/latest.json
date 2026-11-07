@@ -1,10 +1,10 @@
 {
   "packageName": "shop.wokee.shiliu",
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.5.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.1.0.apk",
-  "sha256": "6b7ba6bfffcd9368517aea468707d6b3908a2302932e9ae551909ac75c7303ae",
-  "notes": "新增「检查更新」入口；发现新版时显示更新说明并打开下载链接；保留离线任务和备份导入导出。",
+  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.5.0.apk",
+  "sha256": "a7c42d7d911fd806fca80ffec9c9f6f4d3909b71f405305d830d15f10fa97fee",
+  "notes": "新增邮箱注册、验证码验证、登录和找回密码；任务、清单和专注记录按账号同步；支持离线修改和冲突提示，包含番茄专注与任务快捷操作。",
   "publishedAt": "2026-11-07"
 }

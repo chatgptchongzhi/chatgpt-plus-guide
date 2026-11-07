@@ -1,4 +1,4 @@
 {
-  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.4.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.4.0.asar\",\"sha256\":\"43d9e4d4ef9ba6f851003451e255dc0effa2b310574b674f401a2c12b173ddd2\",\"size\":121833,\"notes\":\"新增系统托盘：关闭窗口后后台运行，托盘点击打开、右键更新和退出；包含顶部回车添加与右键任务菜单。\"}",
-  "signature": "oHqNsPq2IOS0AH0maL8wZEsH1Mo5NHQhSfBYZmpWXhVSat3/AbSdXFKGdqLGoHFIUzYwcwv7ElYZzkHvn0PBAA=="
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.5.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.5.0.asar\",\"sha256\":\"2bd7d5fd0ac50df85f80b5a06792aef99c7baf560e7303a4d443152dcd2b1a18\",\"size\":360652,\"notes\":\"新增邮箱注册、验证码验证、登录和找回密码；任务、清单与专注记录按账号云同步；支持离线修改和同步冲突提示。\"}",
+  "signature": "7YF9SKwAtzuENujsUK15v3X886wXIvun3bA76nSfSKjcoN+DWNx6+T767d85Z4Em6Zteq959TgVbyz2NUf9UBg=="
 }
