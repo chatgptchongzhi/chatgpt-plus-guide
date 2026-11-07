@@ -1,4 +1,4 @@
 {
-  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.5.4\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.5.4.asar\",\"sha256\":\"311e2878fba66df81656c46d3cd388eb90a1b11bf313c7ea2304d2c1eb7818ae\",\"size\":366633,\"notes\":\"增加更新安装启动确认与失败提示；包含左上角账号菜单及日周月年视图顺序。\"}",
-  "signature": "CqRhQ3m95K0optT91P4VLdK1NgMC9n/UoKtXtX2YKtfShaWdYCvQshK7/PX32rrXMs5MBHr/qe0Avl6GXhLLBg=="
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.6.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.6.0.asar\",\"sha256\":\"f59f6bdb4188eb7a07fa008bfc7a80844922b566d5f2f09e8ec367ef0d49eb9a\",\"size\":380046,\"notes\":\"新增四象限任务管理与每日习惯打卡，支持历史记录、连续天数、归档及账号同步。请同步更新手机与电脑版本。\"}",
+  "signature": "6OCuR3+HKPEphxtRbst+7Qq5626iktxL5m8kfB0EpBls/CCOR+Yi9G8o/99DX8JJwIFzTP1Y9Ldo5SwVgN/WBA=="
 }
