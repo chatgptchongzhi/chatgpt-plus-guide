@@ -1,4 +1,4 @@
 {
-  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.5.1\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.5.1.asar\",\"sha256\":\"db82108192f7d4f33887b68f2a40a486cbdda4797c04370d5b8dd401b46fa1c2\",\"size\":360869,\"notes\":\"修复 Windows 应用内更新时 Invalid package 错误；包含邮箱账号与云同步功能。\"}",
-  "signature": "xa9SRvpfUbGBSDnfLMP5BaFDB7+PfU3kCgzj4UGOk8grT+5R/RjAlobnDBTKTHzBercyyJUze6LsBahxasNVAg=="
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.5.2\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.5.2.asar\",\"sha256\":\"0dec64822bcbc2d4452e046642ee5e912d3a4821c81a6659445852a1b8560c85\",\"size\":364840,\"notes\":\"注册登录入口移至左上角头像菜单，支持账号同步、检查更新和退出登录；保留更新修复。\"}",
+  "signature": "hFnMJU/bIkMubuTjkDzI7ZfbsOZ/P7t2JKTtM0slXxXZJjr/PFB0w10gBxl8r691Ovyyv1RuzvJdXJyNSfBjAg=="
 }
