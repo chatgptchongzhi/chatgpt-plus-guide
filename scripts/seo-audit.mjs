@@ -23,6 +23,12 @@ function attr(tag, name) {
   return tag.match(new RegExp(`\\b${name}=["']([^"']*)["']`, "i"))?.[1] ?? "";
 }
 
+function schemaNodes(value) {
+  if (Array.isArray(value)) return value.flatMap(schemaNodes);
+  if (!value || typeof value !== "object") return [];
+  return [value, ...schemaNodes(value["@graph"] ?? [])];
+}
+
 const htmlFiles = walk(root).filter((file) => file.endsWith(".html"));
 const pages = htmlFiles.map((file) => ({
   file,
@@ -33,6 +39,16 @@ const indexablePages = pages.filter(({ html }) => !/<meta[^>]+name=["']robots["'
 const sitemap = readFileSync(join(root, "sitemap.xml"), "utf8");
 const errors = [];
 const seen = { title: new Map(), description: new Map(), canonical: new Map() };
+const sitemapUrls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1].trim());
+const expectedSitemapUrls = new Set(indexablePages.map(({ file }) => pageUrl(file)));
+
+for (const url of sitemapUrls) {
+  if (sitemapUrls.indexOf(url) !== sitemapUrls.lastIndexOf(url)) errors.push(`sitemap.xml: duplicate URL ${url}`);
+  if (!expectedSitemapUrls.has(url)) errors.push(`sitemap.xml: non-canonical or non-indexable URL ${url}`);
+}
+for (const url of expectedSitemapUrls) {
+  if (!sitemapUrls.includes(url)) errors.push(`sitemap.xml: missing canonical URL ${url}`);
+}
 
 function recordUnique(kind, value, rel) {
   if (!value) return;
@@ -60,21 +76,35 @@ for (const { file, rel, html } of indexablePages) {
   if (!jsonLd.length) errors.push(`${rel}: missing JSON-LD`);
   const expectedSchema = rel.startsWith("topics/") ? "CollectionPage" : "BlogPosting";
   let hasExpectedSchema = false;
+  let schemaMatchesPage = false;
   for (const match of jsonLd) {
     try {
       const value = JSON.parse(match[1]);
-      const serialized = JSON.stringify(value);
-      if (serialized.includes(`"${expectedSchema}"`)) hasExpectedSchema = true;
+      const schemaNode = schemaNodes(value).find((node) => {
+        const types = Array.isArray(node["@type"]) ? node["@type"] : [node["@type"]];
+        return types.includes(expectedSchema);
+      });
+      if (schemaNode) {
+        hasExpectedSchema = true;
+        const schemaUrl = expectedSchema === "CollectionPage"
+          ? schemaNode.url
+          : (typeof schemaNode.mainEntityOfPage === "string" ? schemaNode.mainEntityOfPage : schemaNode.mainEntityOfPage?.["@id"]);
+        if (schemaUrl === expectedUrl) schemaMatchesPage = true;
+      }
     } catch (error) {
       errors.push(`${rel}: invalid JSON-LD (${error.message})`);
     }
   }
   if (!hasExpectedSchema) errors.push(`${rel}: missing ${expectedSchema} schema`);
+  else if (!schemaMatchesPage) errors.push(`${rel}: ${expectedSchema} URL must match canonical ${expectedUrl}`);
   if (expectedSchema === "BlogPosting" && (!/"datePublished"\s*:/.test(html) || !/"dateModified"\s*:/.test(html))) errors.push(`${rel}: missing structured publication dates`);
   if (expectedSchema === "BlogPosting") {
     const relatedBlock = html.match(/<!-- related-articles:start -->([\s\S]*?)<!-- related-articles:end -->/i)?.[1] ?? "";
     const relatedCount = (relatedBlock.match(/<a\b/gi) ?? []).length;
-    if (relatedCount < 3 || relatedCount > 5) errors.push(`${rel}: related articles must contain 3 to 5 links`);
+    const deliberateOptOut = html.includes("<!-- related-articles:none-no-relevant-content -->");
+    if (!deliberateOptOut && (relatedCount < 3 || relatedCount > 5)) {
+      errors.push(`${rel}: related articles must contain 3 to 5 links, or use the explicit no-relevant-content marker`);
+    }
   }
   if (!sitemap.includes(`<loc>${expectedUrl}</loc>`)) errors.push(`${rel}: missing from sitemap.xml`);
 
@@ -104,3 +134,4 @@ if (errors.length) {
 }
 
 console.log(`SEO audit passed: ${indexablePages.length} indexable pages checked.`);
+
