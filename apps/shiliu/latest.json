@@ -1,0 +1,10 @@
+{
+  "packageName": "shop.wokee.shiliu",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "minSdk": 26,
+  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.1.0.apk",
+  "sha256": "6b7ba6bfffcd9368517aea468707d6b3908a2302932e9ae551909ac75c7303ae",
+  "notes": "新增「检查更新」入口；发现新版时显示更新说明并打开下载链接；保留离线任务和备份导入导出。",
+  "publishedAt": "2026-11-07"
+}
