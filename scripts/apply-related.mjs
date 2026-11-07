@@ -37,11 +37,16 @@ const related = {
   "guides/claude-pro-claude-code-ban-risk/index.html": ["claudeEffort", "codex", "ecommerce"],
   "guides/what-is-muse-ai/index.html": ["museSignup", "grok", "googleFamily"],
   "guides/claude-code-ultracode-vs-max-effort/index.html": ["claudeRisk", "codex", "ecommerce"],
-  "guides/google-ai-pro-family-sharing/index.html": ["muse", "museSignup", "grok"],
   "guides/how-to-use-grok-bot/index.html": ["muse", "museSignup", "googleFamily"],
   "guides/muse-ai-signup-age-verification/index.html": ["muse", "grok", "googleFamily"],
-  "guides/telegram-iphone-sensitive-content/index.html": ["register", "museSignup", "googleFamily"],
 };
+
+// These articles currently have no genuinely close matches in this repository.
+// An explicit marker is preferable to mechanically adding unrelated links.
+const noRelevantArticles = [
+  "guides/google-ai-pro-family-sharing/index.html",
+  "guides/telegram-iphone-sensitive-content/index.html",
+];
 
 for (const [path, keys] of Object.entries(related)) {
   const file = resolve(root, path);
@@ -56,3 +61,13 @@ for (const [path, keys] of Object.entries(related)) {
   else html = html.replace(/<\/article>(?![\s\S]*<\/article>)/i, `${block}</article>`);
   writeFileSync(file, html, "utf8");
 }
+
+for (const path of noRelevantArticles) {
+  const file = resolve(root, path);
+  let html = readFileSync(file, "utf8");
+  const marker = "<!-- related-articles:none-no-relevant-content -->";
+  html = html.replace(/<!-- related-articles:start -->[\s\S]*?<!-- related-articles:end -->/i, marker);
+  if (!html.includes(marker)) html = html.replace(/<\/article>(?![\s\S]*<\/article>)/i, `${marker}</article>`);
+  writeFileSync(file, html, "utf8");
+}
+
