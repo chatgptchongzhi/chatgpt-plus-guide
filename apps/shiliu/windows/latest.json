@@ -1,4 +1,4 @@
 {
-  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.6.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.6.0.asar\",\"sha256\":\"f59f6bdb4188eb7a07fa008bfc7a80844922b566d5f2f09e8ec367ef0d49eb9a\",\"size\":380046,\"notes\":\"新增四象限任务管理与每日习惯打卡，支持历史记录、连续天数、归档及账号同步。请同步更新手机与电脑版本。\"}",
-  "signature": "6OCuR3+HKPEphxtRbst+7Qq5626iktxL5m8kfB0EpBls/CCOR+Yi9G8o/99DX8JJwIFzTP1Y9Ldo5SwVgN/WBA=="
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.7.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.7.0.asar\",\"sha256\":\"f8d95672965987f0de068c4b6d68b846cd67123487dc83ff97293f3b45b6f94d\",\"size\":390169,\"notes\":\"全新宽屏日历：日、周、月、年、日程、3天与2周视图；支持任务色块、年度分布、时间线与收起清单。\"}",
+  "signature": "peHcWEB+uO+IDXTbF6UhZUVah1bqKkvRHRzoVbxOjq1J1+Ik3Wzh1QSOT/9CD+Zx+h0Zu9TTjxdXQxFtpjqgAA=="
 }

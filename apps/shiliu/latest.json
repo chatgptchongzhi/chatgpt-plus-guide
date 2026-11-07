@@ -1,10 +1,10 @@
 {
   "packageName": "shop.wokee.shiliu",
-  "versionCode": 6,
-  "versionName": "1.6.0",
+  "versionCode": 7,
+  "versionName": "1.7.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.6.0.apk",
-  "sha256": "5167d6ea49ce354c2d2e91fc40c7023ff777b7cd11cf6ba8e110d0f3d7e74873",
-  "notes": "新增四象限任务管理与每日习惯打卡，支持历史记录、连续天数、归档及账号同步。请同步更新手机与电脑版本。",
+  "apkUrl": "https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/shiliu-1.7.0.apk",
+  "sha256": "37b1e7e110e0af34cfd8909ebfc93fd797e5c575c9845e93346a60f392afc0c5",
+  "notes": "全新宽屏日历：日、周、月、年、日程、3天与2周视图；支持任务色块、年度分布、时间线与收起清单。",
   "publishedAt": "2026-11-07"
 }
