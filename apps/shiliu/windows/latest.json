@@ -1,4 +1,4 @@
 {
-  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.7.0\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.7.0.asar\",\"sha256\":\"f8d95672965987f0de068c4b6d68b846cd67123487dc83ff97293f3b45b6f94d\",\"size\":390169,\"notes\":\"全新宽屏日历：日、周、月、年、日程、3天与2周视图；支持任务色块、年度分布、时间线与收起清单。\"}",
-  "signature": "peHcWEB+uO+IDXTbF6UhZUVah1bqKkvRHRzoVbxOjq1J1+Ik3Wzh1QSOT/9CD+Zx+h0Zu9TTjxdXQxFtpjqgAA=="
+  "payload": "{\"appId\":\"com.shiliu.list\",\"platform\":\"win32-x64\",\"runtime\":\"45.2.3\",\"version\":\"1.7.2\",\"url\":\"https://raw.githubusercontent.com/chatgptchongzhi/chatgpt-plus-guide/main/apps/shiliu/windows/shiliu-1.7.2.asar\",\"sha256\":\"9f93729b8edc7b6780bd04a8a577033d4c268ea5cc5b473f3124f5280307bb54\",\"size\":391196,\"notes\":\"修复 Windows 更新安装程序启动方式，增加安装日志，包含新版日历、四象限和习惯。\"}",
+  "signature": "hxre+WTaP6oxaUV9CJYvWksATVr3wc0TTR4V8Hcr+YYB2nleZhrpq7j0ILiTcAnVZuMxjpLLxwMzvlwGPrbZBg=="
 }
