@@ -1,0 +1,9 @@
+{
+  "name": "chatgpt-plus-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/seo-audit.mjs",
+    "test": "node scripts/seo-audit.mjs"
+  }
+}
