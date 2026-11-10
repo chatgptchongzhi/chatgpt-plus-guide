@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-10",
   "repos": [
     {
       "name": "chatgpt-plus-guide",
       "home": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/",
       "items": [
+        {
+          "title": "纸飞机登录一直转圈怎么办？Telegram卡在Connecting、验证码页面解决教程",
+          "file": "guides/telegram-login-stuck-connecting/index.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-login-stuck-connecting/",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-login-stuck-connecting/index.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/telegram-login-stuck-connecting/index.html"
+        },
         {
           "title": "ChatGPT CODEX 充值方式有哪些？2026年Plus、5X、20X充值指南",
           "file": "index.html",
@@ -338,3 +347,4 @@
     }
   ]
 }
+

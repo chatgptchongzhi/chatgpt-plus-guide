@@ -87,3 +87,9 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 - [Muse AI是什么？Meta AI智能代理能做什么、怎么使用？](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/what-is-muse-ai/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/what-is-muse-ai/index.html)
 
 - [苹果手机纸飞机怎么解除敏感限制？Telegram网页版设置教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-iphone-sensitive-content/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-iphone-sensitive-content/index.html)
+
+
+## 2026年11月10日新增
+
+- [纸飞机登录一直转圈怎么办？Telegram卡在Connecting、验证码页面解决教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-login-stuck-connecting/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-login-stuck-connecting/index.html)
+
