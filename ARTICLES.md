@@ -93,3 +93,8 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 
 - [纸飞机登录一直转圈怎么办？Telegram卡在Connecting、验证码页面解决教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-login-stuck-connecting/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-login-stuck-connecting/index.html)
 
+
+
+## Telegram封号申诉教程（2026年11月10日）
+
+- [纸飞机封号怎么申诉？Telegram账号被封、冻结及Spam限制解除教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-account-ban-appeal/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-account-ban-appeal/index.html)

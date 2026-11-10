@@ -74,3 +74,8 @@ ChatGPT充值可以根据自己的付款条件选择官网、Apple App Store、G
 ## ChatGPT注册教程（2026年10月29日）
 
 - [ChatGPT怎么注册？2026注册教程与验证码问题解决方法](https://chatgptchongzhi.github.io/chatgpt-plus-guide/chatgpt-registration-guide-2026/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/chatgpt-registration-guide-2026/index.html)
+
+
+## Telegram封号申诉教程（2026年11月10日）
+
+- [纸飞机封号怎么申诉？Telegram账号被封、冻结及Spam限制解除教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-account-ban-appeal/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-account-ban-appeal/index.html)
