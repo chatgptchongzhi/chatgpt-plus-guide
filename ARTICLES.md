@@ -103,3 +103,8 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## Telegram SMS Fee教程（2026年11月10日）
 
 - [纸飞机登录提示SMS Fee怎么办？2026年一周Premium收费解决方法](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-sms-fee/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-sms-fee/index.html)
+
+
+## Telegram电脑在线与手机登录教程（2026年11月11日）
+
+- [Telegram电脑能登录，手机却登不上怎么办？2026年老号恢复登录教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-desktop-online-phone-login/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-desktop-online-phone-login/index.html)
