@@ -108,3 +108,8 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## Telegram电脑在线与手机登录教程（2026年11月11日）
 
 - [Telegram电脑能登录，手机却登不上怎么办？2026年老号恢复登录教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-desktop-online-phone-login/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-desktop-online-phone-login/index.html)
+
+
+## Telegram敏感内容设置与网页版验证码教程（2026年11月11日）
+
+- [电报解除敏感限制收不到验证码怎么办？Telegram网页版登录与解除限制教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-sensitive-content-login-code/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-sensitive-content-login-code/index.html)
