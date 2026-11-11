@@ -113,3 +113,8 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## Telegram敏感内容设置与网页版验证码教程（2026年11月11日）
 
 - [电报解除敏感限制收不到验证码怎么办？Telegram网页版登录与解除限制教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-sensitive-content-login-code/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-sensitive-content-login-code/index.html)
+
+
+## Telegram旧手机号停用与账号恢复教程（2026年11月11日）
+
+- [Telegram旧手机号停用了，还能找回账号吗？电脑在线换绑与老号恢复教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-old-phone-number-recovery/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-old-phone-number-recovery/index.html)
