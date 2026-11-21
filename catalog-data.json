@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-21",
   "repos": [
     {
       "name": "chatgpt-plus-guide",
@@ -157,6 +157,15 @@
           "status": "已发布",
           "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-old-phone-number-recovery/index.html",
           "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/telegram-old-phone-number-recovery/index.html"
+        },
+        {
+          "title": "Gemini 4哪个模型适合写代码？Carbon与Neon开发能力对比",
+          "file": "guides/gemini-4-carbon-vs-neon-coding/index.html",
+          "type": "文章",
+          "url": "https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/gemini-4-carbon-vs-neon-coding/",
+          "status": "已发布",
+          "source": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/gemini-4-carbon-vs-neon-coding/index.html",
+          "edit": "https://github.com/chatgptchongzhi/chatgpt-plus-guide/edit/main/guides/gemini-4-carbon-vs-neon-coding/index.html"
         }
       ],
       "note": ""
