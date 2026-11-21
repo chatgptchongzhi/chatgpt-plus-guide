@@ -118,3 +118,8 @@ Hugo 模板仓库：分别列出文章、模板示例、服务/栏目页和导�
 ## Telegram旧手机号停用与账号恢复教程（2026年11月11日）
 
 - [Telegram旧手机号停用了，还能找回账号吗？电脑在线换绑与老号恢复教程](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/telegram-old-phone-number-recovery/) · [源文件](https://github.com/chatgptchongzhi/chatgpt-plus-guide/blob/main/guides/telegram-old-phone-number-recovery/index.html)
+
+
+## Gemini 4编程模型对比（2026年11月21日）
+
+- [Gemini 4哪个模型适合写代码？Carbon与Neon开发能力对比](https://chatgptchongzhi.github.io/chatgpt-plus-guide/guides/gemini-4-carbon-vs-neon-coding/)
